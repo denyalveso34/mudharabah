@@ -15,3 +15,4 @@ docker exec -it fprpu /bin/sh
 
 - docker rm -vf $(docker ps -aq)
 - docker system prune --volumes --all --force
+# penelitian
