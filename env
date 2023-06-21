@@ -1,0 +1,8 @@
+ENVIRONMENT=development
+env_BASE_URL=http://localhost:8181/
+env_HOSTNAME=sql.freedb.tech
+env_USERNAME=freedb_kulino
+env_PASSWORD=xs8tG8Yz!@*v4zM
+env_DATABASE=freedb_kulino_fprpu
+env_ClientId=832908224229-33huvklasnal3beel1mgpu2tve47ovhg.apps.googleusercontent.com
+env_ClientSecret=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
