@@ -30,6 +30,7 @@
 <!-- choose file -->
 <script src="<?=$this->config->item('js').'upload.js';?>"></script>
 <script src="<?=$this->config->item('js').'forms-file-upload.js';?>"></script>
+<script src="<?=$this->config->item('js').'form-wizard-icons.js';?>"></script>
 
 <!-- Vendors JS -->
 <?php if (isset($datatables)) { ?>
@@ -50,6 +51,7 @@
     <script src="<?=$this->config->item('vendor-libs').'datatables-rowgroup-bs5/rowgroup.bootstrap5.js';?>"></script>
     
     <script src="<?=$this->config->item('js').'datatables.config.js';?>"></script>
+    <script src="<?=$this->config->item('js').'nik-ktp.js';?>"></script>
     
 
 <?php } ?>

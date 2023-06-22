@@ -8,6 +8,10 @@
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'datatables-buttons-bs5/buttons.bootstrap5.css';?>">
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'flatpickr/flatpickr.css';?>">
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'sweetalert2/sweetalert2.css';?>">
+<link rel="stylesheet" href="<?=$this->config->item('vendor-fonts').'boxicons.css';?>" >
+<link rel="stylesheet" href="<?=$this->config->item('vendor-fonts').'fontawesome.css';?>" >
+<link rel="stylesheet" href="<?=$this->config->item('vendor-fonts').'flag-icons.css';?>" >
+
 
 <!-- Row Group CSS -->
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'datatables-rowgroup-bs5/rowgroup.bootstrap5.css';?>">
@@ -23,3 +27,8 @@
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'perfect-scrollbar/perfect-scrollbar.css';?>" />
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'typeahead-js/typeahead.css';?>" />
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'dropzone/dropzone.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'perfect-scrollbar/perfect-scrollbar.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'typeahead-js/typeahead.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'bs-stepper/bs-stepper.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'bootstrap-select/bootstrap-select.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'select2/select2.css';?>" />
