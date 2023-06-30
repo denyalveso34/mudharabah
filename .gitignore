@@ -6,7 +6,7 @@ application/cache/*
 application/logs/*
 !application/logs/index.html
 
-!application/*/.htaccess
+# !application/*/.htaccess
 
 
 tests/mocks/database/ci_test.sqlite
@@ -31,4 +31,3 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/tests/
 /tests/results/
 
-/.env.php

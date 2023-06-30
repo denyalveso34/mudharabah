@@ -32,3 +32,4 @@
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'bs-stepper/bs-stepper.css';?>" />
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'bootstrap-select/bootstrap-select.css';?>" />
 <link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'select2/select2.css';?>" />
+<link rel="stylesheet" href="<?=$this->config->item('vendor-libs').'apex-charts/apex-charts.css';?>" />

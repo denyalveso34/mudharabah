@@ -52,7 +52,8 @@
     
     <script src="<?=$this->config->item('js').'datatables.config.js';?>"></script>
     <script src="<?=$this->config->item('js').'nik-ktp.js';?>"></script>
-    
+    <script src="<?=$this->config->item('vendor-libs').'apex-charts/apexcharts.js';?>"></script>
+    <script src="<?=$this->config->item('js').'dashboards-analytics.js';?>"></script>
 
 <?php } ?>
     

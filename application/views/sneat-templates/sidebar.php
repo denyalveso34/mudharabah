@@ -30,7 +30,7 @@
 			<?php if($users['role'] == 'superadmin' || $users['role'] == 'perencanaan' || $users['role'] == 'pemanfaatan' || $users['role'] == 'pengendalian' || $users['role'] == 'anggota'): ?>
 				<li class="menu-item <?php if($title == 'agenda') echo 'active';?>">
 					<a href="<?=base_url('forum/agenda_rapat')?>" class="menu-link">
-						<div data-i18n="Ajukan Pemodalan">Ajukan Pemodalan</div>
+						<div data-i18n="Status Pemodalan">Status Pemodalan</div>
 					</a>
 				</li>
 				<?php endif; ?>
@@ -40,7 +40,7 @@
 			<?php if($users['role'] == 'superadmin'): ?>
 				<li class="menu-item <?php if($title == 'pengajuan') echo 'active';?>">
 					<a href="<?=base_url('forum/pengajuan_rapat')?>" class="menu-link">
-						<div data-i18n="Status Pemodalan">Status Pemodalan</div>
+						<div data-i18n="Ajukan Pemodalan">Ajukan Pemodalan</div>
 					</a>
 				</li>
 				<?php endif; ?>
